@@ -1,4 +1,4 @@
-notes/latexmrc
+notes/latexmkrc
 notes/main.aux
 notes/main.bbl
 notes/main.bcf
@@ -6,4 +6,10 @@ notes/main.fdb_latexmk
 notes/main.fls
 notes/main.toc
 notes/main.ptc
+notes/main.log
+notes/main.blg
+notes/main.idx
+notes/main.ilg
+notes/main.ind
+notes/main.synctex.gz
 

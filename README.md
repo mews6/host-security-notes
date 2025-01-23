@@ -1,2 +1,3 @@
-# host-security-notes
-A little guide to locally hosted cybersec
+# Host Security Notes
+
+A little guide to locally hosted cybersec. 
